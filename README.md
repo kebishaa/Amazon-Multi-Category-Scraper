@@ -30,9 +30,9 @@ pip install selenium pandas webdriver-manager fake-useragent
 ```
 
 2. Run the scraper:
-   ```
+```
 python scraper.py
-   ```
+```
 3. Scraped data is stored in the all_products list and can be saved to CSV:
 ```
 import pandas as pd
