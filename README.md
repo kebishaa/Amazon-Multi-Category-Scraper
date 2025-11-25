@@ -40,6 +40,6 @@ df = pd.DataFrame(all_products)
 df.to_csv("amazon_products.csv", index=False)
 ```
 **Notes**  
-Ensure ChromeDriver version matches your Chrome browser  
-Use responsibly and avoid overloading Amazon servers  
-Headless mode can be enabled for background execution  
+- Ensure ChromeDriver version matches your Chrome browser  
+- Use responsibly and avoid overloading Amazon servers  
+- Headless mode can be enabled for background execution  
